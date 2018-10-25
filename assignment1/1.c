@@ -1,9 +1,5 @@
-/* File: bucket_sort.c
-   Author: Jharrod LaFon
-   Date: Spring 2011
-   Purpose: Parallel implementation of bucket sort
-   */
-//#include "memwatch.h"
+
+
 #include<stdio.h>
 #include<stdlib.h>
 //#include<string.h>
