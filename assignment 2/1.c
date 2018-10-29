@@ -206,16 +206,7 @@ void slave(Params * p)
 
 void usage()
 {
-    printf("bucket_sort\n\
-            MPI Program to sort an array using bucket sort.\n\
-            Jharrod LaFon 2011\n\
-            Usage: bucket_sort [args]\n\
-            -r\t\tPrint bucket ranges\n\
-            -s <size>\tSpecify array size\n\
-            -m <max>\tSpecify largest number in array\n\
-            -p\t\tPrint the array\n\
-            -v\t\tBe verbose\n\
-            -h\t\tPrint this message\n");
+
 }
 /* Parse user arguments */
 void parse_args(int argc, char ** argv, Params * p)
